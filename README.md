@@ -8,3 +8,4 @@ A push to github appeared impossible due to certificate issues.
 This file was then updated just afterward and commited a second time.  
 And it worked, it's the old history in github.  So another forensic mechanism needs to be found.  
 Let's check inconsistencies moving back and forth in time
+And an anachronism on the same file 
